@@ -23,6 +23,7 @@ The following firms are either capable of offering Cairo security reviews or tas
 - [Nethermind](https://nethermind.io/)
 - [OpenZeppelin](https://openzeppelin.com/)
 - [Trail of Bits](https://www.trailofbits.com/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 #### Communities:
 
